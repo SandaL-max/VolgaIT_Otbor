@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VolgaIT_Otbor", "TestWPF_App\VolgaIT_Otbor.csproj", "{704BAD75-0D8F-4F0E-B128-9681018BB06D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704BAD75-0D8F-4F0E-B128-9681018BB06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704BAD75-0D8F-4F0E-B128-9681018BB06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704BAD75-0D8F-4F0E-B128-9681018BB06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704BAD75-0D8F-4F0E-B128-9681018BB06D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {438BDA61-C519-4752-A8D8-540959C8F57F}
+	EndGlobalSection
+EndGlobal
