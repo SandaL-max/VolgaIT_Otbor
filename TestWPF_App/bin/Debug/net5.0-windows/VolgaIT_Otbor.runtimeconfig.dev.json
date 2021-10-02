@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SandaL\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SandaL\\.nuget\\packages"
+    ]
+  }
+}
